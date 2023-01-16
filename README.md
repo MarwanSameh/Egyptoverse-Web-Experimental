@@ -2,7 +2,7 @@
 Egyptoverse is an online, blockchain, web-based, immersive exhibition built for artists and designers.
 
 ## ⚠ Note
-This version of the application is under development. To view the experience in the best form, visit [Egyptoverse on Spline](https://my.spline.design/egyptoverseweb-173f74a9217a09fff1f588d1230f7976/) or explore the [Three JS version](https://github.com/MarwanSameh/Egyptoverse-Three-JS)
+This version of the application is under development, there are some unresolved issues in the vanilla JS version. To view the experience in the best form, visit [Egyptoverse on Spline](https://my.spline.design/egyptoverseweb-173f74a9217a09fff1f588d1230f7976/) or explore the [Three JS version](https://github.com/MarwanSameh/Egyptoverse-Three-JS)
 ## 🚩 About the Experimental Version
 Experimental buildable version of Egyptoverse to run on local machines. Although very hard to run, potential improvements could yield better results.
 
